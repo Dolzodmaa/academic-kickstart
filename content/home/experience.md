@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Intelligent Information Systems Lab"
   company_url = ""
   location = "State College, PA"
-  date_start = "2018-01"
+  date_start = "2018-01-10"
   date_end = ""
   description ="""
   Automated Placental Assessment and Diagnosis
